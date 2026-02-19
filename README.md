@@ -166,7 +166,8 @@ Created actionable retention strategy
 ### 👨‍💻 Author
 
 Ghangale Soham Prakash
-Aspiring Data Analyst | Machine Learning Enthusiast
+-Aspiring Data Analyst 
+-Machine Learning Enthusiast
 
 ### 🚀 Next Steps
 - Clone & run: `pip install -r requirements.txt`
