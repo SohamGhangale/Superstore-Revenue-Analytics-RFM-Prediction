@@ -136,9 +136,12 @@ Superstore-Analytics/
 
 ![Revenue Trend](images/revenue_trend.png)
 ![Category Sales](images/category_sales.png)
-![Regional Sales](images/region_sales.png)
-![RFM Segments](images/rfm_segments.png)
+![Top_Sub_Category_Sales](images/top_subcategory_sales.png)
+![Regional Sales](images/customer_segmentation.png)
+![RFM Segments](images/revenue_segments.png)
 ![Model Performance](images/model_performance.png)
+
+
 
 ### 🏆 Skills Demonstrated
 
